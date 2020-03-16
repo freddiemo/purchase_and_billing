@@ -2,4 +2,4 @@ from django.views import generic
 
 
 class Home(generic.TemplateView):
-    template_name = 'base/base.html'
+    template_name = 'bases/home.html'
