@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-16 16:45-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Welcome Back"
+msgstr "Bienvenido de nuevo"
+
+msgid "Login"
+msgstr "Ingresar"
+
+msgid "Welcome"
+msgstr "Bienvenido/a"
+
+msgid "Remember Me"
+msgstr "Recuérdame"
+
+msgid "Login with Google"
+msgstr "Ingresar con Google"
+
+msgid "Login with Facebook"
+msgstr "Ingresar con Facebook"
+
+msgid "Forgot Password?"
+msgstr "¿Ha olvidado la contraseña?"
+
+msgid "Create an Account!"
+msgstr "Registrarse!"
+
+msgid "Enter Email Address..."
+msgstr "Ingrese Correo Electrónico..."
+
+msgid "Enter Username..."
+msgstr "Ingrese Nombre de Usuario..."
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "Espanish"
+msgstr "Español"
+
+msgid "English"
+msgstr "Ingles"
+
+msgid "Upgrade your subscription"
+msgstr "Actualiza tu subscripción"
+
+msgid "Messaging"
+msgstr "Envío de mensajes"
+
+msgid "Notifications"
+msgstr "Notificaciones"
+
+msgid "Settings"
+msgstr "Configuraciones"
+
+msgid "Subaccounts"
+msgstr "Subcuentas"
+
+msgid "Billing"
+msgstr "Facturación"
+
+msgid "Logout"
+msgstr "Salir"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "contact"
+msgstr "contacto"
+
+msgid "Privacy policy - "
+msgstr "Políticas privadas -"
+
+msgid "Terms of use - "
+msgstr "Términos de uso -"
+
+msgid "FAQ"
+msgstr "Preguntas frecuentes"
