@@ -385,7 +385,7 @@
         <div class="modal-body">{% trans "Select &quot;Logout&quot; below if you are ready to end your current session." %}</div>
         <div class="modal-footer">
           <button class="btn btn-secondary" type="button" data-dismiss="modal">{% trans 'Cancel' %}</button>
-          <a class="btn btn-primary" href="login.html">{% trans 'Logout' %}</a>
+          <a class="btn btn-primary" href="{% url 'bases:logout' %}">{% trans 'Logout' %}</a>
         </div>
       </div>
     </div>
