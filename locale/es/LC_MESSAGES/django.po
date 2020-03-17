@@ -17,6 +17,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Select &quot;Logout&quot; below if you are ready to end your current session."
+msgstr "Selecciona abajo &quot;Salir&quot; si estas listo para cerrar la sesión actual."
+
 msgid "Welcome Back"
 msgstr "Bienvenido de nuevo"
 
